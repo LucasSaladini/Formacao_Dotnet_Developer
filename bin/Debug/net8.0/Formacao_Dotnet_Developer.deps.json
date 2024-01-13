@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Formacao_Dotnet_Developer/1.0.0": {
+        "runtime": {
+          "Formacao_Dotnet_Developer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Formacao_Dotnet_Developer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.sourcelink.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/bin/Debug/net8.0/Formacao_Dotnet_Developer
+/home/midnight/Documents/Formacao_Dotnet_Developer/bin/Debug/net8.0/Formacao_Dotnet_Developer.deps.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/bin/Debug/net8.0/Formacao_Dotnet_Developer.runtimeconfig.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/bin/Debug/net8.0/Formacao_Dotnet_Developer.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/bin/Debug/net8.0/Formacao_Dotnet_Developer.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/refint/Formacao_Dotnet_Developer.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/Formacao_Dotnet_Developer.genruntimeconfig.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/obj/Debug/net8.0/ref/Formacao_Dotnet_Developer.dll
