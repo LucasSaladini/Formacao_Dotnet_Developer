@@ -1,0 +1,15 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/bin/Debug/net8.0/Excecoes_e_Colecoes
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/bin/Debug/net8.0/Excecoes_e_Colecoes.deps.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/bin/Debug/net8.0/Excecoes_e_Colecoes.runtimeconfig.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/bin/Debug/net8.0/Excecoes_e_Colecoes.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/bin/Debug/net8.0/Excecoes_e_Colecoes.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.sourcelink.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/refint/Excecoes_e_Colecoes.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/Excecoes_e_Colecoes.genruntimeconfig.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Excecoes_e_Colecoes/obj/Debug/net8.0/ref/Excecoes_e_Colecoes.dll
