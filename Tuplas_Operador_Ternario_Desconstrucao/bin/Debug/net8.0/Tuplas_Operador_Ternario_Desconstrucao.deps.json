@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tuplas_Operador_Ternario_Desconstrucao/1.0.0": {
+        "runtime": {
+          "Tuplas_Operador_Ternario_Desconstrucao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuplas_Operador_Ternario_Desconstrucao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
