@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5wnueEYHUQE2kdMDzfLtNmulYCYIhGlji7z1ip6sK9FWqjYiLBc7lY+rPZpIXrmQLJuwcenKiYkYuyq2FsQIA==",
+  "success": true,
+  "projectFilePath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Tipos_Especiais/Tipos_Especiais.csproj",
+  "expectedPackageFiles": [
+    "/home/midnight/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
