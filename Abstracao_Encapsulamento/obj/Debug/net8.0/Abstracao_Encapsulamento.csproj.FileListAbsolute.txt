@@ -1,0 +1,15 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/bin/Debug/net8.0/Abstracao_Encapsulamento
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/bin/Debug/net8.0/Abstracao_Encapsulamento.deps.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/bin/Debug/net8.0/Abstracao_Encapsulamento.runtimeconfig.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/bin/Debug/net8.0/Abstracao_Encapsulamento.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/bin/Debug/net8.0/Abstracao_Encapsulamento.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.sourcelink.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/refint/Abstracao_Encapsulamento.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/Abstracao_Encapsulamento.genruntimeconfig.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Abstracao_Encapsulamento/obj/Debug/net8.0/ref/Abstracao_Encapsulamento.dll
