@@ -1,0 +1,15 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/bin/Debug/net8.0/Heranca_Polimorfirmos
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/bin/Debug/net8.0/Heranca_Polimorfirmos.deps.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/bin/Debug/net8.0/Heranca_Polimorfirmos.runtimeconfig.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/bin/Debug/net8.0/Heranca_Polimorfirmos.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/bin/Debug/net8.0/Heranca_Polimorfirmos.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.sourcelink.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/refint/Heranca_Polimorfirmos.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/Heranca_Polimorfirmos.genruntimeconfig.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Heranca_Polimorfirmos/obj/Debug/net8.0/ref/Heranca_Polimorfirmos.dll
