@@ -1,0 +1,15 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/bin/Debug/net8.0/Sistema_Celular
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/bin/Debug/net8.0/Sistema_Celular.deps.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/bin/Debug/net8.0/Sistema_Celular.runtimeconfig.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/bin/Debug/net8.0/Sistema_Celular.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/bin/Debug/net8.0/Sistema_Celular.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.sourcelink.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/refint/Sistema_Celular.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/Sistema_Celular.genruntimeconfig.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Sistema_Celular/obj/Debug/net8.0/ref/Sistema_Celular.dll
