@@ -1,0 +1,15 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/bin/Debug/net8.0/Classes_Abstratas_Interfaces
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/bin/Debug/net8.0/Classes_Abstratas_Interfaces.deps.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/bin/Debug/net8.0/Classes_Abstratas_Interfaces.runtimeconfig.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/bin/Debug/net8.0/Classes_Abstratas_Interfaces.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/bin/Debug/net8.0/Classes_Abstratas_Interfaces.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.sourcelink.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/refint/Classes_Abstratas_Interfaces.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/Classes_Abstratas_Interfaces.genruntimeconfig.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Classes_Abstratas_Interfaces/obj/Debug/net8.0/ref/Classes_Abstratas_Interfaces.dll
