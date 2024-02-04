@@ -1,0 +1,13 @@
+BEGIN TRAN;
+
+ROLLBACK;
+
+
+ALTER TABLE Produtos 
+ADD CONSTRAINT CHK_ColunaGenero CHECK (Genero = 'U' OR Genero = 'M' OR Genero = 'F');
+
+ALTER TABLE Produtos
+ADD DEFAULT GETDATE() FOR DataCadastro;
+
+ALTER TABLE Produtos 
+DROP CONSTRAINT PK__Produtos__3214EC077ADF4989;
