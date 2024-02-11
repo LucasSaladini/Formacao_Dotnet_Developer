@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PPtO6fWiB8pHKII8r9cMYlW1eN5evjYOl5uowV7ILZetqsFzKq94lY4ukoWenJpvHHjH6oxyOYiNoCzQjRVHuQ==",
+  "success": true,
+  "projectFilePath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Introducao_as_APIs/Introducao_as_APIs.csproj",
+  "expectedPackageFiles": [
+    "/home/midnight/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/midnight/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/midnight/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/home/midnight/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/home/midnight/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/home/midnight/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
