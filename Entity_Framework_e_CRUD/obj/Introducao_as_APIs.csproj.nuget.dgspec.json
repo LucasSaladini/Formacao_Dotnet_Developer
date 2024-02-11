@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/midnight/Documents/Formacao_Dotnet_Developer/Introducao_as_APIs/Introducao_as_APIs.csproj": {}
+    "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Introducao_as_APIs.csproj": {}
   },
   "projects": {
-    "/home/midnight/Documents/Formacao_Dotnet_Developer/Introducao_as_APIs/Introducao_as_APIs.csproj": {
+    "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Introducao_as_APIs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/midnight/Documents/Formacao_Dotnet_Developer/Introducao_as_APIs/Introducao_as_APIs.csproj",
+        "projectUniqueName": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Introducao_as_APIs.csproj",
         "projectName": "Introducao_as_APIs",
-        "projectPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Introducao_as_APIs/Introducao_as_APIs.csproj",
+        "projectPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Introducao_as_APIs.csproj",
         "packagesPath": "/home/midnight/.nuget/packages/",
-        "outputPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Introducao_as_APIs/obj/",
+        "outputPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/midnight/.nuget/NuGet/NuGet.Config"
@@ -38,6 +38,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
