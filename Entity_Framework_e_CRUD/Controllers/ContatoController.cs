@@ -53,5 +53,18 @@ namespace Entity_Framework_e_CRUD.Controllers
 
             return Ok(contatoBanco);
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            var contatoBanco = _context.Contatos.Find(id);
+
+            if (contatoBanco == null)
+                return NotFound();
+
+            _context.Contatos.Remove(contatoBanco);
+            _context.SaveChanges();
+            return NoContent();
+        }
     }
 }
