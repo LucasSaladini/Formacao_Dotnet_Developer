@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "azabsLChoyYDmTMPpBR0DYhW3cuyqLXzW3Lw6PQh9w+ba85QqpPBt4LJ0A1Qstn1dRW3EVFSvBxxi7m8mciatg==",
+  "dgSpecHash": "0j3vpPW9UP0NXy0EypK9HKWBiBfPDnYUhSjmB+QtogGktbNe4e6OvMK4WvV/IaMiFeGonbdz7nRkM4C/XgsY5w==",
   "success": true,
-  "projectFilePath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Introducao_as_APIs.csproj",
+  "projectFilePath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Entity_Framework_e_CRUD.csproj",
   "expectedPackageFiles": [
     "/home/midnight/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/home/midnight/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

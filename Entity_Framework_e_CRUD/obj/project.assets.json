@@ -4400,9 +4400,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Introducao_as_APIs.csproj",
-      "projectName": "Introducao_as_APIs",
-      "projectPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Introducao_as_APIs.csproj",
+      "projectUniqueName": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Entity_Framework_e_CRUD.csproj",
+      "projectName": "Entity_Framework_e_CRUD",
+      "projectPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/Entity_Framework_e_CRUD.csproj",
       "packagesPath": "/home/midnight/.nuget/packages/",
       "outputPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Entity_Framework_e_CRUD/obj/",
       "projectStyle": "PackageReference",
