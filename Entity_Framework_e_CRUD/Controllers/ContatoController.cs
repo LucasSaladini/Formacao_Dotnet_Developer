@@ -24,5 +24,16 @@ namespace Entity_Framework_e_CRUD.Controllers
             _context.SaveChanges();
             return Ok(contato);
         }
+
+        [HttpGet("{id}")]
+        public IActionResult GetById(int id)
+        {
+            var contact = _context.Contatos.Find(id);
+
+            if(contact == null)
+                return NotFound();
+
+            return Ok(contact);
+        }
     }
 }
