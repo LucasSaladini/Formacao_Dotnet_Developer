@@ -22,7 +22,7 @@ namespace Entity_Framework_e_CRUD.Controllers
         {
             _context.Add(contato);
             _context.SaveChanges();
-            return Ok(contato);
+            return CreatedAtAction(nameof(GetById), new { id = contato.Id }, contato);
         }
 
         [HttpGet("{id}")]
@@ -30,7 +30,7 @@ namespace Entity_Framework_e_CRUD.Controllers
         {
             var contact = _context.Contatos.Find(id);
 
-            if(contact == null)
+            if (contact == null)
                 return NotFound();
 
             return Ok(contact);
