@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Frontend_com_ASP.NET_MVC.Models
+namespace Frontend_com_ASPNET_MVC.Models
 {
     public class Contato
     {

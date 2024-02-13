@@ -1,10 +1,11 @@
 using Microsoft.EntityFrameworkCore;
-using Frontend_com_ASP.Context;
+using Frontend_com_ASPNET_MVC.Context;
+using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Servicer.AddDbContext<AgendaContext>(options =>
+builder.Services.AddDbContext<AgendaContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 builder.Services.AddControllersWithViews();
 

@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Frontend_com_ASPNET_MVC.Models;
 using Microsoft.EntityFrameworkCore;
-using Frontend_com_ASP.Models;
 
-namespace Frontend_com_ASP.NET_MVC.Context
+namespace Frontend_com_ASPNET_MVC.Context
 {
     public class AgendaContext : DbContext
     {
