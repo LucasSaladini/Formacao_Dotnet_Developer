@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Frontend_com_ASPNET_MVC.Context;
+using Frontend_com_ASPNET_MVC.Models;
 
 namespace Frontend_com_ASPNET_MVC.Controllers
 {
@@ -25,6 +26,18 @@ namespace Frontend_com_ASPNET_MVC.Controllers
         public IActionResult Criar()
         {
             return View();
+        }
+
+        [HttpPost]
+        public IActionResult Criar(Contato contato)
+        {
+            if(ModelState.IsValid)
+            {
+                _context.Contatos.Add(contato);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
+            return View(contato);
         }
     }
 }
