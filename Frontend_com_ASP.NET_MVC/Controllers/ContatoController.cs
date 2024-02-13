@@ -21,5 +21,10 @@ namespace Frontend_com_ASPNET_MVC.Controllers
             var contatos = _context.Contatos.ToList();
             return View(contatos);
         }
+
+        public IActionResult Criar()
+        {
+            return View();
+        }
     }
 }
