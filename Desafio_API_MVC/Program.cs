@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Desafio_API_MVC.Context;
+using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
