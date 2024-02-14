@@ -1,3 +1,4 @@
+using Microsoft.EntityFrameworkCore;
 using Desafio_API_MVC.Context;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Desafio_API_MVC.Models
 {
-    public class Task
+    public class TodoTask
     {
         public int Id { get; set; }
         public string Title { get; set; }
