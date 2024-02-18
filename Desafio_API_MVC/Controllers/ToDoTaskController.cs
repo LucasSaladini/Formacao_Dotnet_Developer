@@ -60,5 +60,31 @@ namespace Desafio_API_MVC.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult Update(int id)
+        {
+            var task = _context.TodoTasks.Find(id);
+
+            if(task == null)
+                return RedirectToAction(nameof(Index));
+
+            return View(task);
+        }
+
+        [HttpPost]
+        public IActionResult Update(TodoTask task)
+        {
+            var taskDatabase = _context.TodoTasks.Find(task.Id);
+
+            taskDatabase.Title = task.Title;
+            taskDatabase.Description = task.Description;
+            taskDatabase.Date = task.Date;
+            taskDatabase.Status = task.Status;
+
+            _context.TodoTasks.Update(taskDatabase);
+            _context.SaveChanges();
+
+            return RedirectToAction(nameof(Index));
+        }
     }
 }

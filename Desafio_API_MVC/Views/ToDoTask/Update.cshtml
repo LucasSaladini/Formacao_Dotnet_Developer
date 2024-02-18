@@ -1,0 +1,42 @@
+@model Desafio_API_MVC.Models.TodoTask
+@using static Desafio_API_MVC.Models.EnumTaskStatus
+
+@{
+    ViewData["Title"] = "Atualizar";
+}
+
+<h1>Editar tarefa</h1>
+<hr>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+            </div>
+            <br>
+            <div class="form-group">
+                <select asp-for="Status" class="control-label">
+                    <option value="@EnumTaskStatus.Pendente">Pendente</option>
+                    <option value="@EnumTaskStatus.Finalizada">Finalizada</option>
+                </select>
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Atualizar" class="btn btn-success" />
+            </div>
+        </form>
+    </div>
+</div>
+<hr>
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>
