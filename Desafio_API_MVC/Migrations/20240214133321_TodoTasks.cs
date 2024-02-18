@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Desafio_API_MVC.Migrations
 {
     /// <inheritdoc />
-    public partial class ToDoTasks : Migration
+    public partial class TodoTasks : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

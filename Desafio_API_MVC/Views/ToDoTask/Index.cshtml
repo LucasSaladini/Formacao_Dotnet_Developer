@@ -1,1 +1,39 @@
-<p>tarefa</p>
+@model IEnumerable<Desafio_API_MVC.Models.TodoTask>
+
+@{
+    ViewData["Title"] = "Tarefas";
+}
+
+<h2>Tarefas</h2>
+
+<p>
+    <a class="btn btn-success" asp-action="Create">Nova Tarefa</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Title)</th>
+            <th>@Html.DisplayNameFor(model => model.Description)</th>
+            <th>@Html.DisplayNameFor(model => model.Date)</th>
+            <th>@Html.DisplayNameFor(model => model.Status)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th>@Html.DisplayFor(model => item.Id)</th>
+                <th>@Html.DisplayFor(model => item.Title)</th>
+                <th>@Html.DisplayFor(model => item.Description)</th>
+                <th>@Html.DisplayFor(model => item.Date)</th>
+                <th>@Html.DisplayFor(model => item.Status)</th>
+                <td>
+                    <a asp-action="Update" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

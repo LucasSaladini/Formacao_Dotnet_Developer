@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Desafio_API_MVC.Migrations
 {
     [DbContext(typeof(OrganizerContext))]
-    [Migration("20240214115325_ToDoTasks")]
-    partial class ToDoTasks
+    [Migration("20240214133321_TodoTasks")]
+    partial class TodoTasks
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
