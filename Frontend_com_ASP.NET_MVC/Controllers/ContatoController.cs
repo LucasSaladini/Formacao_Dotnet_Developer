@@ -11,12 +11,12 @@ namespace Frontend_com_ASPNET_MVC.Controllers
     public class ContatoController : Controller
     {
         private readonly AgendaContext _context;
-        
+
         public ContatoController(AgendaContext context)
         {
             _context = context;
         }
-        
+
         public IActionResult Index()
         {
             var contatos = _context.Contatos.ToList();
@@ -31,7 +31,7 @@ namespace Frontend_com_ASPNET_MVC.Controllers
         [HttpPost]
         public IActionResult Criar(Contato contato)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 _context.Contatos.Add(contato);
                 _context.SaveChanges();
@@ -44,7 +44,7 @@ namespace Frontend_com_ASPNET_MVC.Controllers
         {
             var contato = _context.Contatos.Find(id);
 
-            if(contato == null)
+            if (contato == null)
                 return RedirectToAction(nameof(Index));
 
             return View(contato);
@@ -69,7 +69,7 @@ namespace Frontend_com_ASPNET_MVC.Controllers
         {
             var contato = _context.Contatos.Find(id);
 
-            if(contato == null)
+            if (contato == null)
                 return RedirectToAction(nameof(Index));
 
             return View(contato);
@@ -79,7 +79,7 @@ namespace Frontend_com_ASPNET_MVC.Controllers
         {
             var contato = _context.Contatos.Find(id);
 
-            if(contato == null)
+            if (contato == null)
                 return RedirectToAction(nameof(Index));
 
             return View(contato);

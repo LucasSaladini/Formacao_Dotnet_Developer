@@ -42,6 +42,22 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb1Rhc2svRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_API_MVC/Views/ToDoTask/GetByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb1Rhc2svR2V0QnlEYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_API_MVC/Views/ToDoTask/GetById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb1Rhc2svR2V0QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_API_MVC/Views/ToDoTask/GetByStatus.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb1Rhc2svR2V0QnlTdGF0dXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_API_MVC/Views/ToDoTask/GetByTitle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb1Rhc2svR2V0QnlUaXRsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_API_MVC/Views/ToDoTask/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVG9Eb1Rhc2svSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
