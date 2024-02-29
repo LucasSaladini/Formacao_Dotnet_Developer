@@ -66,5 +66,14 @@ namespace Azure_Table.Controllers
 
             return Ok(contatos);
         }
+
+        [HttpGet("ObterPorNome{nome}")]
+        public IActionResult ObterPorNome(string nome)
+        {
+            var tableClient = GetTableClient();
+            var contatos = tableClient.Query<Contato>(x => x.Nome == nome).ToList();
+
+            return Ok(contatos);
+        }
     }
 }
