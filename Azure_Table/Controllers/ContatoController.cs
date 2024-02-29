@@ -57,5 +57,14 @@ namespace Azure_Table.Controllers
 
             return Ok();
         }
+
+        [HttpGet("Listar")]
+        public IActionResult ObterTodos()
+        {
+            var tableClient = GetTableClient();
+            var contatos = tableClient.Query<Contato>().ToList();
+
+            return Ok(contatos);
+        }
     }
 }
