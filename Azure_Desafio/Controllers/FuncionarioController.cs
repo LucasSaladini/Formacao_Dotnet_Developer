@@ -53,9 +53,9 @@ namespace Azure_Desafio.Controllers
         }
 
         [HttpPost]
-        public IActionResult Update(int id, Funcionario funcionario)
+        public IActionResult Update(Funcionario funcionario)
         {
-            var funcionariosBase = _context.Funcionarios.Find(id);
+            var funcionariosBase = _context.Funcionarios.Find(funcionario.Id);
 
             if (funcionariosBase == null)
                 return NotFound();
@@ -68,15 +68,16 @@ namespace Azure_Desafio.Controllers
             funcionariosBase.Salario = funcionario.Salario;
             funcionariosBase.DataAdmissao = funcionario.DataAdmissao;
 
+            _context.Funcionarios.Update(funcionariosBase);
             _context.SaveChanges();
 
-            return Ok();
+            return RedirectToAction(nameof(Index));
         }
 
         [HttpPost]
-        public IActionResult Delete(int id)
+        public IActionResult Delete(Funcionario funcionario)
         {
-            var funcionariosBase = _context.Funcionarios.Find(id);
+            var funcionariosBase = _context.Funcionarios.Find(funcionario.Id);
 
             if (funcionariosBase == null)
                 return NotFound();
