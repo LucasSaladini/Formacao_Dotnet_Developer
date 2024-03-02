@@ -42,6 +42,15 @@ namespace Azure_Desafio.Controllers
             return View(funcionario);
         }
 
+        public IActionResult Update(int id)
+        {
+            var funcionario = _context.Funcionarios.Find(id);
+
+            if (funcionario == null)
+                return NotFound();
+            return View(funcionario);
+        }
+
         [HttpPut("{id}")]
         public IActionResult Update(int id, Funcionario funcionario)
         {
