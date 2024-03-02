@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Azure_Desafio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f2c414a9a1fbee9153018795d9c892f4d938aee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f17dc1f1ae1df013018c21072a1d696cd756ba5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Azure_Desafio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Azure_Desafio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
