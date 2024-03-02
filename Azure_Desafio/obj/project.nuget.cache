@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uXeYCIiCoAAsnr0GW4urZCYOEssBVke5cZivPhVnvkhhjIQeZe+oT9P+Oe7GovCKZDmv63VmCy2jNt8etfT2zw==",
+  "dgSpecHash": "UEx84MmuQre3r55rrLWQe5USl9NTznewot8YADnBVOKFttMQm50mbTpiTh8vRsR5GjINEILtuXVWXy2Fq4UgXA==",
   "success": true,
   "projectFilePath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Azure_Desafio/Azure_Desafio.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/home/midnight/.nuget/packages/microsoft.entityframeworkcore.design/8.0.2/microsoft.entityframeworkcore.design.8.0.2.nupkg.sha512",
     "/home/midnight/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.2/microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
     "/home/midnight/.nuget/packages/microsoft.entityframeworkcore.sqlserver/8.0.2/microsoft.entityframeworkcore.sqlserver.8.0.2.nupkg.sha512",
+    "/home/midnight/.nuget/packages/microsoft.entityframeworkcore.tools/8.0.2/microsoft.entityframeworkcore.tools.8.0.2.nupkg.sha512",
     "/home/midnight/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/home/midnight/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "/home/midnight/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

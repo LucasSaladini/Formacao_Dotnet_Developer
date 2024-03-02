@@ -5,18 +5,24 @@ using System.Threading.Tasks;
 using Azure_Desafio.Context;
 using Azure_Desafio.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Azure_Desafio.Controllers
 {
-    [ApiController]
-    [Route("[controller]")]
-    public class FuncionarioController : ControllerBase
+    public class FuncionarioController : Controller
     {
         private readonly RHContext _context;
 
         public FuncionarioController(RHContext context)
         {
             _context = context;
+        }
+
+        public IActionResult Index()
+        {
+            var funcionarios = _context.Funcionarios.ToList();
+
+            return View(funcionarios);
         }
 
         [HttpGet("{id}")]

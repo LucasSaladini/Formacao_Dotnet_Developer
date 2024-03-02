@@ -1,6 +1,12 @@
+using Azure_Desafio.Context;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<RHContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("StandardConnection")));
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
