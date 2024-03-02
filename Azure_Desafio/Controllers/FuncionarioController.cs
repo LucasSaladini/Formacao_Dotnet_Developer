@@ -74,6 +74,16 @@ namespace Azure_Desafio.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public IActionResult Delete(int id)
+        {
+            var funcionario = _context.Funcionarios.Find(id);
+
+            if (funcionario == null)
+                return NotFound();
+
+            return View(funcionario);
+        }
+
         [HttpPost]
         public IActionResult Delete(Funcionario funcionario)
         {
@@ -82,9 +92,10 @@ namespace Azure_Desafio.Controllers
             if (funcionariosBase == null)
                 return NotFound();
 
+            _context.Funcionarios.Remove(funcionariosBase);
             _context.SaveChanges();
 
-            return Ok();
+            return RedirectToAction(nameof(Index));
         }
     }
 }
