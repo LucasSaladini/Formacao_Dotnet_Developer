@@ -48,10 +48,11 @@ namespace Azure_Desafio.Controllers
 
             if (funcionario == null)
                 return NotFound();
+
             return View(funcionario);
         }
 
-        [HttpPut("{id}")]
+        [HttpPost]
         public IActionResult Update(int id, Funcionario funcionario)
         {
             var funcionariosBase = _context.Funcionarios.Find(id);
@@ -72,7 +73,7 @@ namespace Azure_Desafio.Controllers
             return Ok();
         }
 
-        [HttpDelete("{id}")]
+        [HttpPost]
         public IActionResult Delete(int id)
         {
             var funcionariosBase = _context.Funcionarios.Find(id);
