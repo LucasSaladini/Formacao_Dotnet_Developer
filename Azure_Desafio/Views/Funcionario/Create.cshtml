@@ -1,0 +1,49 @@
+@model Azure_Desafio.Models.Funcionario;
+
+@{
+    ViewData["Title"] = "Adicionar Funcionário";
+}
+
+<h1>Adicionar Funcionário</h1>
+<hr>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="form-group">
+                <label asp-for="Nome" class="control-lable"></label>
+                <input asp-for="Nome" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Endereco" class="control-lable"></label>
+                <input asp-for="Endereco" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Ramal" class="control-lable"></label>
+                <input asp-for="Ramal" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="EmailProfissional" class="control-lable"></label>
+                <input asp-for="EmailProfissional" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Departamento" class="control-lable"></label>
+                <input asp-for="Departamento" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Salario" class="control-lable"></label>
+                <input type="number" asp-for="Salario" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="DataAdmissao" class="control-lable"></label>
+                <input type="datetime-local" asp-for="DataAdmissao" class="form-control" />
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Adicionar" class="btn btn-primary" </div>
+        </form>
+    </div>
+</div>
+<hr>
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>
