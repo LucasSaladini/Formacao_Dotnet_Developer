@@ -1,0 +1,45 @@
+@model IEnumerable<Azure_Desafio.Models.Funcionario>;
+
+@{
+    ViewData["Title"] = "Funcionários";
+}
+
+<h2>Funcionários</h2>
+
+<p>
+    <a asp-action="Create"><button class="btn btn-success">Adicionar Funcionário</button></a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Id)</th>
+            <th>@Html.DisplayNameFor(model => model.Nome)</th>
+            <th>@Html.DisplayNameFor(model => model.Endereco)</th>
+            <th>@Html.DisplayNameFor(model => model.Ramal)</th>
+            <th>@Html.DisplayNameFor(model => model.EmailProfissional)</th>
+            <th>@Html.DisplayNameFor(model => model.Departamento)</th>
+            <th>@Html.DisplayNameFor(model => model.Salario)</th>
+            <th>@Html.DisplayNameFor(model => model.DataAdmissao)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(model => item.Id)</td>
+                <td>@Html.DisplayFor(model => item.Nome)</td>
+                <td>@Html.DisplayFor(model => item.Endereco)</td>
+                <td>@Html.DisplayFor(model => item.Ramal)</td>
+                <td>@Html.DisplayFor(model => item.EmailProfissional)</td>
+                <td>@Html.DisplayFor(model => item.Departamento)</td>
+                <td>@Html.DisplayFor(model => item.Salario)</td>
+                <td>@Html.DisplayFor(model => item.DataAdmissao)</td>
+                <td>
+                    <a asp-action="Update" asp-route-itemid="@item.Id">Editar</a>
+                    <a asp-action="Delete" asp-route-itemid="@item.Id">Apagar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

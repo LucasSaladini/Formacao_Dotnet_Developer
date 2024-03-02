@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/midnight/Documents/Formacao_Dotnet_Developer/Azure_Desafio
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/midnight/Documents/Formacao_Dotnet_Developer/Azure_Desafio/Views/Funcionarios/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRnVuY2lvbmFyaW9zL0luZGV4LmNzaHRtbA==
+[/home/midnight/Documents/Formacao_Dotnet_Developer/Azure_Desafio/Views/Funcionario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRnVuY2lvbmFyaW8vSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/midnight/Documents/Formacao_Dotnet_Developer/Azure_Desafio/Views/Home/Index.cshtml]

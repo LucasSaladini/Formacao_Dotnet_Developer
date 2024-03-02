@@ -5,7 +5,6 @@ using System.Threading.Tasks;
 using Azure_Desafio.Context;
 using Azure_Desafio.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace Azure_Desafio.Controllers
 {
@@ -25,24 +24,22 @@ namespace Azure_Desafio.Controllers
             return View(funcionarios);
         }
 
-        [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public IActionResult Create()
         {
-            var funcionario = _context.Funcionarios.Find(id);
-
-            if (funcionario == null)
-                return NotFound();
-
-            return Ok(funcionario);
+            return View();
         }
 
         [HttpPost]
         public IActionResult Create(Funcionario funcionario)
         {
-            _context.Funcionarios.Add(funcionario);
-            _context.SaveChanges();
+            if (ModelState.IsValid)
+            {
+                _context.Funcionarios.Add(funcionario);
+                _context.SaveChanges();
+                return RedirectToAction(nameof(Index));
+            }
 
-            return Ok();
+            return View(funcionario);
         }
 
         [HttpPut("{id}")]
