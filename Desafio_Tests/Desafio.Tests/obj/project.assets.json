@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Desafio.Console/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Desafio.Console.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Desafio.Console.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Desafio.Console/1.0.0": {
+      "type": "project",
+      "path": "../Desafio.Console/Desafio.Console.csproj",
+      "msbuildProject": "../Desafio.Console/Desafio.Console.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Desafio.Console >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/home/midnight/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/Desafio.Console.csproj": {
+              "projectPath": "/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/Desafio.Console.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
