@@ -30,7 +30,7 @@ namespace Console.Services
             return lista.Max();
         }
 
-        public int RetornarMenorNumero(List<int> lista)
+        public int RetornarMenorNumeroLista(List<int> lista)
         {
             return lista.Min();
         }
