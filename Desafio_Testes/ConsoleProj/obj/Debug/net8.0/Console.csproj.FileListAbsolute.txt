@@ -1,0 +1,5 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Testes/Console/obj/Debug/net8.0/Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Testes/Console/obj/Debug/net8.0/Console.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Testes/Console/obj/Debug/net8.0/Console.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Testes/Console/obj/Debug/net8.0/Console.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Testes/Console/obj/Debug/net8.0/Console.sourcelink.json
