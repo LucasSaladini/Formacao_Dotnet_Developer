@@ -1,0 +1,15 @@
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/bin/Debug/net8.0/Desafio.Console
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/bin/Debug/net8.0/Desafio.Console.deps.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/bin/Debug/net8.0/Desafio.Console.runtimeconfig.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/bin/Debug/net8.0/Desafio.Console.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/bin/Debug/net8.0/Desafio.Console.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.AssemblyInfoInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.AssemblyInfo.cs
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.csproj.CoreCompileInputs.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.sourcelink.json
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/refint/Desafio.Console.dll
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.pdb
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/Desafio.Console.genruntimeconfig.cache
+/home/midnight/Documents/Formacao_Dotnet_Developer/Desafio_Tests/Desafio.Console/obj/Debug/net8.0/ref/Desafio.Console.dll
