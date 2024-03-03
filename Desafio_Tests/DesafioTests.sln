@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Console", "Desafio.Console\Desafio.Console.csproj", "{7E7B425C-A170-480E-995D-0A8CDF128308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Tests", "Desafio.Tests\Desafio.Tests.csproj", "{D79DFF92-0C37-438C-ABB5-55C119C85461}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio.Tests", "Desafio.Tests\Desafio.Tests.csproj", "{FC3B4AC4-DF0B-4919-B9D3-8CBF8EEE8480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,9 +20,9 @@ Global
 		{7E7B425C-A170-480E-995D-0A8CDF128308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E7B425C-A170-480E-995D-0A8CDF128308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E7B425C-A170-480E-995D-0A8CDF128308}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D79DFF92-0C37-438C-ABB5-55C119C85461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D79DFF92-0C37-438C-ABB5-55C119C85461}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D79DFF92-0C37-438C-ABB5-55C119C85461}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D79DFF92-0C37-438C-ABB5-55C119C85461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3B4AC4-DF0B-4919-B9D3-8CBF8EEE8480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3B4AC4-DF0B-4919-B9D3-8CBF8EEE8480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3B4AC4-DF0B-4919-B9D3-8CBF8EEE8480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3B4AC4-DF0B-4919-B9D3-8CBF8EEE8480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
