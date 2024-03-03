@@ -66,4 +66,15 @@ public class CalculadoraTests
         // Assert
         Assert.True(result);
     }
+
+    // Refact
+    [Theory]
+    [InlineData(new int[] { 2, 4 })]
+    [InlineData(new int[] { 6, 8, 10 })]
+    public void DeveVerificarSeOsNumerosSaoParesERetornarVerdadeiroRefact(int[] numbers)
+    {
+        // Arrange
+        // Act / Assert
+        Assert.All(numbers, num => Assert.True(_calc.EPar(num)));
+    }
 }
