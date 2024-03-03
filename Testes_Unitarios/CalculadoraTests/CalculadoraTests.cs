@@ -50,4 +50,20 @@ public class CalculadoraTests
         // Assert
         Assert.True(result);
     }
+
+    // 2, 4, 6, 8, 10
+    [Theory]
+    [InlineData(2)]
+    [InlineData(4)]
+    [InlineData(6)]
+    [InlineData(8)]
+    [InlineData(10)]
+    public void DeveVerificarSeOsNumerosSaoParesERetornarVerdadeiro(int number)
+    {
+        // Arrange
+        // Act
+        bool result = _calc.EPar(number);
+        // Assert
+        Assert.True(result);
+    }
 }
